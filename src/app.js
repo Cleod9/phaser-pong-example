@@ -1,4 +1,4 @@
 import 'app.scss';
-import Game from 'engine/Game';
+import Game from 'game/game';
 
 new Game();
